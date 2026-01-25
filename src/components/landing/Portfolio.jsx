@@ -1,7 +1,7 @@
-import React, { useState } from "react";
-import { motion, AnimatePresence } from "framer-motion";
-import brandStrategy from "/linkedin.png";
-import posterDesign from "/linkedin.png";
+import { AnimatePresence, motion } from "framer-motion";
+import { useState } from "react";
+import brandStrategy from "../../assets/Portfolio/brand-strategy.jpg";
+import posterDesign from "../../assets/Portfolio/poster-design.jpg";
 import "../../index.css";
 
 function Portfolio() {
@@ -14,7 +14,7 @@ function Portfolio() {
       id: 1,
       title: "QuickHelp AI - Landing Page & Dashboard UI",
       category: "Graphic Design",
-      image: "/State-Level-Selection.jpg", // PDF front page image
+      image: brandStrategy, // PDF front page image
       pdf: "/State-Level-Selection.pdf", // actual PDF
       subtitle: "Landing Page & Dashboard UI Design",
     },
@@ -29,7 +29,7 @@ function Portfolio() {
       id: 3,
       title: "Digital Marketing Agency",
       category: "Graphic Design",
-      image: "/Digital.png", // PDF front page image
+      image: posterDesign, // PDF front page image
       pdf: "/Digitala.png",
       subtitle: "Futuristic Design",
     },
