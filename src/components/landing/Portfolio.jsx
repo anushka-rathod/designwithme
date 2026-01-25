@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import brandStrategy from "/public/State-Level-Selection.jpg";
-import posterDesign from "/public/State-Level-Selection.jpg";
+import brandStrategy from "/linkedin.png";
+import posterDesign from "//linkedin.png";
 import "../../index.css";
 
 function Portfolio() {
