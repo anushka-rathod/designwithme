@@ -11,18 +11,18 @@ function Services() {
     },
     {
       icon: <Lightbulb className="w-10 h-10 text-[#5B3765]" />,
-      title: "Brand Strategy",
-      description: "Understanding the brand's vision, goals, and target audience to create designs that communicate the right message."
+      title: "Data Visualization",
+      description: "Understanding the data’s context, objectives, and target audience to create visualizations that clearly communicate insights and support informed decision-making."
     },
     {
       icon: <Package className="w-10 h-10 text-[#5B3765]" />,
-      title: "Packaging Design",
-      description: "Creating packaging concepts that reflect the brand's identity, values, and target audience."
+      title: "Machine Learning Solutions",
+      description: "Developing intelligent algorithms and models that can learn from data and make predictions or decisions with minimal human intervention."
     },
     {
       icon: <TrendingUp className="w-10 h-10 text-[#5B3765]" />,
-      title: "SEO & Marketing",
-      description: "Designing SEO-friendly website structures with clean layouts, proper headings, and user-focused content flow."
+      title: "Statistical Analysis",
+      description: "Performing rigorous statistical analyses to extract meaningful insights from data and support evidence-based decision-making."
     }
   ];
 

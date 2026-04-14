@@ -19,16 +19,16 @@ function About() {
           <div className="flex flex-col gap-4">
             <span className="text-[#9E6899] font-sora font-bold text-2xl tracking-wide">ABOUT ME</span>
             <h2 className="text-4xl md:text-6xl font-sora text-[#F3CCDE] leading-tight">
-              I'm an aspiring <br /> Graphic Designer.
+              I'm an aspiring <br /> Data Scientist.
             </h2>
           </div>
 
           <div className="flex flex-col gap-6 text-[#F3CCDE]/80 text-lg leading-relaxed font-inter">
             <p>
-              I'm a Graphic designer with hands-on experience working with a few clients, designing intuitive and visually balanced interfaces. I believe in learning through practice and creating designs that put users first.
+              I'm a Data Scientist with hands-on experience working on real-world datasets, uncovering patterns, and building models that drive data-backed decisions. I focus on turning complex data into meaningful insights and believe in learning through experimentation while creating solutions that are both impactful and user-centric.
             </p>
             <p>
-              My aim is to design Entrepreneur experiences that transform ideas into meaningful, easy-to-use digital products.
+              My aim is to leverage data science to transform raw data into meaningful insights and intelligent solutions that support decision-making and create impactful, user-focused outcomes.
             </p>
           </div>
 

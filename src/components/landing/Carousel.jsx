@@ -2,8 +2,8 @@ import { motion } from 'framer-motion';
 
 function Carousel() {
   const items = [
-    "UI/UX Design", "Product Design", "Poster Design", "Brand Strategy",
-    "UI/UX Design", "Product Design", "Poster Design", "Brand Strategy"
+    "Statistical Analysis", "Business Intelligence", "Machine Learning Solutions", "Data Visualization",
+    "Statistical Analysis", "Business Intelligence", "Machine Learning Solutions", "Data Visualization",
   ];
 
   return (

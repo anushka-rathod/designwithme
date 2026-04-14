@@ -7,7 +7,7 @@ import "../../index.css";
 function Portfolio() {
   const [filter, setFilter] = useState("All");
 
-  const categories = ["All", "Graphic Design", "Marketing"];
+  const categories = ["All", "Graphic Design", "Data Science"];
 
   const projects = [
     {
@@ -20,10 +20,10 @@ function Portfolio() {
     },
     {
       id: 2,
-      title: "Stitch Sutra Identity",
-      category: "Marketing",
-      image: "/Stitch-Sutra.png",
-      subtitle: "Modern Brand Strategy",
+      title: "House Price Prediction - Data Analysis & Modeling",
+      category: "Data Science",
+      image: "/House.jpg",
+      subtitle: "Data Analysis & Predictive Modeling",
     },
     {
       id: 3,
@@ -32,6 +32,13 @@ function Portfolio() {
       image: posterDesign, // PDF front page image
       pdf: "/Digitala.png",
       subtitle: "Futuristic Design",
+    },
+     {
+      id: 4,
+      title: "IPL Match Outcome Prediction - Data Analysis & Modeling",
+      category: "Data Science",
+      image: "/IPL.jpg",
+      subtitle: "PowerBI Dashboard & Predictive Modeling",
     },
   ];
 

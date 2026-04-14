@@ -22,7 +22,7 @@ function Footer() {
           </motion.div>
 
           <h2 className="text-4xl md:text-6xl font-sora text-[#F3CCDE] max-w-4xl leading-tight">
-            Let's work together to transform your ideas into design
+            Let's work together to transform your ideas into data-driven solutions that make an impact.
           </h2>
 
           <motion.a

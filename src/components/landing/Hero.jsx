@@ -28,11 +28,11 @@ function Hero() {
 
           <h1 className="text-5xl md:text-7xl font-sora text-[#F3CCDE] leading-tight">
             Hey, I'm Anushka, <br />
-            <span className="text-white/90">Graphic Designer.</span>
+            <span className="text-white/90">Data Scientist.</span>
           </h1>
 
           <p className="text-[#F3CCDE]/80 text-lg max-w-xl leading-relaxed">
-            Create stunning visuals backed by data-driven insights. Transform your ideas into compelling designs and meaningful analytics.
+           Create impactful data solutions backed by data-driven insights. Transform raw data into meaningful analytics, predictive models, and actionable intelligence.
           </p>
 
           <div className="flex flex-wrap items-center gap-6">
